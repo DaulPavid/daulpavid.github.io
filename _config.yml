@@ -1,0 +1,18 @@
+# Site settings
+title: DaulPav.id
+tagline:
+  Programming, Signal Processing, Cybersecurity
+
+# Personal information
+author:
+  name: DaulPavid 
+  email: daulpavid@daulpav.id
+  twitter: daulpavid
+  github: daulpavid
+  linkedin: daulpavid
+
+darkhack:
+  date_format:
+    "%x"
+
+remote_theme: daulpavid/darkhack
