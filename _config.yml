@@ -1,18 +1,19 @@
 # Site settings
 title: DaulPav.id
 tagline:
-  Programming, Signal Processing, Cybersecurity
+  Cybersecurity, Programming, Signal Processing
 
 # Personal information
 author:
-  name: DaulPavid 
+  name: DaulPavid
   email: daulpavid@daulpav.id
-  twitter: daulpavid
   github: daulpavid
+  mastodon_instance: infosec.exchange
+  mastodon_handle: daulpavid
   linkedin: daulpavid
 
 darkhack:
-  date_format:
-    "%x"
+  date_format: "%x"
+  font_awesome: "357d91f838"
 
 remote_theme: daulpavid/darkhack
