@@ -50,7 +50,8 @@ The algorithm is stated as follows:
 
 $$ \gamma_k \left(s_m, s_n \right) = c_k^0 L_a \left( c_k^0 \right) + c_k^0 L_c r_k^0 + c_k^1 L_c r_k^1 $$
 
-$ s_m $ and $ s_n $ correspond to the state transition that occurred on the trellis. $ c_k^0 $ and $ c_k^1 $ correspond to the input / output bits of the trellis shown in the previous figure 2. $ L_a $ corresponds to the prior (extrinsic) values, which are initialized to zero when the first decoder executes on the first iteration.
+$ s_m $ and $ s_n $ correspond to the state transition that occurred on the trellis. $ c_k^0 $ and $ c_k^1 $ correspond to the input / output bits of the trellis shown in the previous figure 2.
+$ L_a $ corresponds to the prior (extrinsic) values, which are initialized to zero when the first decoder executes on the first iteration.
 
 * Compute the forward path metrics along the trellis:
 
