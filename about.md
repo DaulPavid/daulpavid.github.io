@@ -27,9 +27,9 @@ with low-latency and high bandwidth hardware platforms such as the Ettus USRP an
 other software-defined radios (SDR) for the purpose of developing communication
 systems and security research.
 
-My professional (and hobby) interests include learning new programming languages,
+My professional and hobby interests include learning new programming languages,
 reverse engineering, exploitation, and digital signal processing.
 
 This webspace is intended to serve as a place to post articles and write-ups for
-my projects and ideas. I'm always open to communication so feel free
+my projects and ideas. I'm always open to communication, so feel free
 to contact me at **daulpavid [at-sign] daulpav.id**
